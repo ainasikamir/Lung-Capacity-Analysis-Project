@@ -22,3 +22,5 @@ Selected the quadratic model as the best fit, demonstrating the non-linear relat
 Languages: Python, R
 Libraries: Pandas, NumPy, Matplotlib, Seaborn, Statsmodels (Python) 
 Statistical Analysis: ANOVA testing, regression analysis
+### Missing Dataset
+The original dataset (`LungCapData2.xlsx`) is not included.
