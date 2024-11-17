@@ -1,7 +1,7 @@
 
 # Lung Capacity Analysis: Outcomes, Visualizations, and Insights
 
-## 1. Project Overview
+## 1. Overview
 This document provides a summary of the main outcomes, visualizations, and insights from the Lung Capacity analysis project. The analysis explored the relationship between lung capacity and factors such as height, gender, and smoking status using regression models.
 
 ## 2. Key Outcomes
@@ -33,11 +33,7 @@ This document provides a summary of the main outcomes, visualizations, and insig
 - **Model Simplicity vs. Complexity:** While the cubic model was tested, it did not add value beyond the quadratic model. This reinforces the principle of using the simplest model that explains the data well.
 - **Confounding Factors in Analysis:** The observed differences in lung capacity based on smoking status and gender suggest the influence of other unmeasured variables, such as age or fitness level. This highlights the need for careful consideration of potential confounders in any analysis.
 
-## 5. Conclusion
 The Lung Capacity analysis demonstrated the effectiveness of using non-linear regression models to capture real-world relationships. The findings showed that while height is a key predictor of lung capacity, the relationship is not purely linear. Gender and smoking status also appear to influence lung capacity, but their effects may be confounded by other factors. The quadratic model was selected as the optimal balance between fit and interpretability, providing valuable insights into the predictors of lung capacity.
 
-## 6. Recommendations for Future Analysis
-- **Include Additional Predictors:** Incorporate variables like physical activity level or fitness score to better account for differences in lung capacity.
-- **Investigate Age Effects:** Analyze the impact of age on lung capacity to understand its role as a potential confounder.
-- **Test Other Non-Linear Models:** Explore other forms of non-linear regression (e.g., polynomial models of higher order or spline regression) to further refine the analysis.
+
 
